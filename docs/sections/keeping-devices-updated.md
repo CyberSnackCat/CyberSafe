@@ -4,8 +4,8 @@
 Updates fix security flaws. Turn on automatic updates for your computer and phone, restart occasionally, and keep apps current to stay ahead of threats.
 
 **Downloads:**  
-- [Presentation (PDF)](downloads/keeping-devices-updated-presentation.pdf)  
-- [One‑page guide (PDF)](downloads/keeping-devices-updated-guide.pdf)
+- [Presentation (PDF)](../downloads/keeping-devices-updated-presentation.pdf)  
+- [One‑page guide (PDF)](../downloads/keeping-devices-updated-guide.pdf)
 
 ---
 
