@@ -4,8 +4,8 @@
 Spot the red flags across phishing, tech-support, government impostors, romance, sweepstakes, and grandparent scams. Learn practical ways to verify before you trust and report attempts safely.
 
 **Downloads:**  
-- [Presentation (PDF)](downloads/recognizing-and-preventing-common-scams-presentation.pdf)  
-- [One‑page guide (PDF)](downloads/recognizing-and-preventing-common-scams-guide.pdf)
+- [Presentation (PDF)](../downloads/recognizing-and-preventing-common-scams-presentation.pdf)  
+- [One‑page guide (PDF)](../downloads/recognizing-and-preventing-common-scams-guide.pdf)
 
 ---
 
