@@ -1,0 +1,33 @@
+
+site_name: CyberSafe in the Community
+site_url: ""
+nav:
+  - Home: index.md
+  - Workshops & Guides:
+      - Why is Fraud a Problem?: sections/why-is-fraud-a-problem.md
+      - Recognizing and Preventing Common Scams: sections/recognizing-and-preventing-common-scams.md
+      - Practical Steps for Protection: sections/practical-steps-for-protection.md
+      - Keeping Devices Updated: sections/keeping-devices-updated.md
+      - Password Safety and 2FA: sections/password-safety-and-2fa.md
+      - Safe Social Media Use: sections/safe-social-media-use.md
+      - Wi-Fi & Home Network Security: sections/wi-fi-and-home-network-security.md
+      - Key Takeaways for Staying Safe Online: sections/key-takeaways-for-staying-safe-online.md
+  - Downloads: downloads.md
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - content.code.copy
+  palette:
+    primary: "#002132"
+    accent: "#002134"
+extra_css:
+  - styles/overrides.css
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+plugins:
+  - search
