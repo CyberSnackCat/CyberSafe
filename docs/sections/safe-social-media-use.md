@@ -4,8 +4,8 @@
 Use privacy settings, think before you post, and accept friend requests only from people you know. Keep accounts locked down with strong passwords and 2FA.
 
 **Downloads:**  
-- [Presentation (PDF)](downloads/safe-social-media-use-presentation.pdf)  
-- [One‑page guide (PDF)](downloads/safe-social-media-use-guide.pdf)
+- [Presentation (PDF)](../downloads/safe-social-media-use-presentation.pdf)  
+- [One‑page guide (PDF)](../downloads/safe-social-media-use-guide.pdf)
 
 ---
 
