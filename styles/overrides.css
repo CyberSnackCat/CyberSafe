@@ -1,0 +1,25 @@
+
+:root {
+  --md-primary-fg-color: #002132;
+  --md-accent-fg-color: #002134;
+}
+
+html, body {
+  font-family: "Segoe UI", Calibri, Roboto, Helvetica, Arial, sans-serif;
+}
+
+img.logo { max-width: 260px; height: auto; }
+.header-hero {
+  display:flex; align-items:center; gap:1.25rem; flex-wrap:wrap;
+}
+.hero-title { font-size: 2rem; font-weight: 700; margin: 0; }
+.hero-tag { font-size: 1.1rem; color: #333; margin: 0.25rem 0 0; }
+.callout {
+  background: #f8fbff; border-left: 6px solid #002134; padding: 1rem 1.25rem; border-radius: 6px;
+}
+.card-grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap: 1rem; }
+.card { border: 1px solid #e8eef5; border-radius: 8px; padding: 1rem; background: #fff; }
+.card h3 { margin-top: 0; }
+.download-btn { display:inline-block; padding: .6rem 1rem; background: #002132; color: #fff; text-decoration:none; border-radius: 6px; }
+.download-btn.secondary { background: #002134; }
+.figure { text-align:center; font-size:.9rem; color:#666; }
