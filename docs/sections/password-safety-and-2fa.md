@@ -4,8 +4,8 @@
 Strong, unique passwords + two-factor authentication block most account takeovers. Learn passphrases, password managers, and how to handle verification codes safely.
 
 **Downloads:**  
-- [Presentation (PDF)](downloads/password-safety-and-2fa-presentation.pdf)  
-- [One‑page guide (PDF)](downloads/password-safety-and-2fa-guide.pdf)
+- [Presentation (PDF)](../downloads/password-safety-and-2fa-presentation.pdf)  
+- [One‑page guide (PDF)](../downloads/password-safety-and-2fa-guide.pdf)
 
 ---
 
