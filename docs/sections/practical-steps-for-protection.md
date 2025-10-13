@@ -4,8 +4,8 @@
 Simple, high-impact habits reduce risk: pause-and-verify, limit oversharing, use official channels, and document/report suspicious activity. Use our checklist to build lasting cyber habits.
 
 **Downloads:**  
-- [Presentation (PDF)](downloads/practical-steps-for-protection-presentation.pdf)  
-- [One‑page guide (PDF)](downloads/practical-steps-for-protection-guide.pdf)
+- [Presentation (PDF)](../downloads/practical-steps-for-protection-presentation.pdf)  
+- [One‑page guide (PDF)](../downloads/practical-steps-for-protection-guide.pdf)
 
 ---
 
