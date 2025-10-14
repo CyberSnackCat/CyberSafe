@@ -26,9 +26,9 @@
   <div>
 About Me
 
-Hi, I’m a high school student with a passion for cybersecurity and digital safety. Ever since I first got my hands on a device, I’ve been fascinated by how technology works—and yes, even finding ways around parental controls taught me how much I love discovering loopholes.
+Hi, I’m a high school student with a passion for cybersecurity and digital safety. Ever since I first got my hands on a device, I’ve been fascinated by how technology works - and yes, even finding ways around parental controls taught me how much I love discovering loopholes.
 
-Over the years, I’ve seen how quickly technology evolves and how hard it can be for people to keep up, especially older adults. I’ve also seen the rise in online scams and the real harm they cause. That’s why I started CyberSafe in the Community—to empower adults with the knowledge and tools they need to protect themselves online.
+Over the years, I’ve seen how quickly technology evolves and how hard it can be for people to keep up, especially older adults. I’ve also seen the rise in online scams and the real harm they cause. That’s why I started CyberSafe in the Community - to empower adults with the knowledge and tools they need to protect themselves online.
 
 My goal is simple: help people feel confident using technology so they can stay connected with their families without fear.
   </div>
