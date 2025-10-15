@@ -24,10 +24,11 @@ img.logo { max-width: 260px; height: auto; }
   display: inline-block; 
   padding: .6rem 2.5rem .6rem 1rem; 
   background: #002132; 
-  color: #fff; 
+  color: #fff !important; 
   text-decoration: none; 
   border-radius: 6px;
   position: relative;
+  transition: background-color 0.2s ease;
 }
 .download-btn::after {
   content: "→";
@@ -36,6 +37,10 @@ img.logo { max-width: 260px; height: auto; }
   top: 50%;
   transform: translateY(-50%);
   font-size: 1.2em;
+  color: #fff;
+}
+.download-btn:hover {
+  background: #003152;
 }
 .download-btn.secondary { background: #002134; }
 .figure { text-align:center; font-size:.9rem; color:#666; }
