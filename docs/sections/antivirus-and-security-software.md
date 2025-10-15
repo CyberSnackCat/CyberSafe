@@ -1,6 +1,6 @@
 # Antivirus and Security Software
 
-Protect your devices from malware and viruses with reliable security software. Keep it updated and running to detect and block threats before they can harm your system.
+Protect your devices from malware and viruses with reliable security software. Keep it updated and running to detect and block threats before they can harm your system. Learn the pros and cons of free vs paid software.
 
 **Downloads:**  
 - [Presentation (PDF)](../downloads/antivirus-and-security-software-presentation.pdf)  
