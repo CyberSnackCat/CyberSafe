@@ -4,7 +4,6 @@
 A quick recap of the essential habits that make you resilient online—share these with friends and neighbors.
 
 **Downloads:**  
-- [Presentation (PDF)](../downloads/key-takeaways-for-staying-safe-online-presentation.pdf)  
 - [One‑page guide (PDF)](../downloads/key-takeaways-for-staying-safe-online-guide.pdf)
 
 ---

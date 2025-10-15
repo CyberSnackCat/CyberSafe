@@ -9,4 +9,5 @@ Find all presentations and one‑page guides here.
 - **Password Safety and 2FA** — [Presentation (PDF)](downloads/password-safety-and-2fa-presentation.pdf) · [One‑page guide (PDF)](downloads/password-safety-and-2fa-guide.pdf)
 - **Safe Social Media Use** — [Presentation (PDF)](downloads/safe-social-media-use-presentation.pdf) · [One‑page guide (PDF)](downloads/safe-social-media-use-guide.pdf)
 - **Wi-Fi & Home Network Security** — [Presentation (PDF)](downloads/wi-fi-and-home-network-security-presentation.pdf) · [One‑page guide (PDF)](downloads/wi-fi-and-home-network-security-guide.pdf)
-- **Key Takeaways for Staying Safe Online** — [Presentation (PDF)](downloads/key-takeaways-for-staying-safe-online-presentation.pdf) · [One‑page guide (PDF)](downloads/key-takeaways-for-staying-safe-online-guide.pdf)
+- **Antivirus and Security Software** — [Presentation (PDF)](downloads/antivirus-and-security-software-presentation.pdf) · [One‑page guide (PDF)](downloads/antivirus-and-security-software-guide.pdf)
+- **Key Takeaways for Staying Safe Online** — [One‑page guide (PDF)](downloads/key-takeaways-for-staying-safe-online-guide.pdf)
