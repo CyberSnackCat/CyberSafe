@@ -1,15 +1,4 @@
 
-Julia, this is perfect — you’ve given me exactly what I need to synthesize a single, polished, professional README that:
-- Uses Vedansh’s version as the technical truth (because his codebase is the final one)
-- Uses Benjamin’s version as the narrative truth (because his summary of topics is stronger and more audience‑aligned)
-- Points to Benjamin’s GitHub Pages site
-https://cybersnackcat.github.io/CyberSafe/
-- Also points to the new public domain
-https://cybersafeforseniors.org
-- Reflects Benjamin as the primary owner and the project’s community mission
-- Maintains a clean, modern, admissions‑ready tone
-Here is the merged, final README — ready to paste directly into Benjamin’s repo.
-
 CyberSafe — Practical Cybersecurity for Everyone
 A modern, accessible website designed to help older adults and non‑technical community members stay safe online. CyberSafe combines clear explanations, practical checklists, and downloadable guides to make cybersecurity simple, visual, and actionable.
 🌐 Live Sites:
