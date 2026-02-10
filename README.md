@@ -59,10 +59,8 @@ CyberSafe/
 ├── assets/
 │   ├── images/             # Logos and graphics
 │   └── pdfs/               # All guides and presentations
-├── docs/                   # MkDocs documentation (if used)
 ├── .github/
 │   └── workflows/          # Deployment workflow
-├── mkdocs.yml              # MkDocs configuration
 └── README.md               # This file
 \`\`\`
 
@@ -73,7 +71,6 @@ CyberSafe/
 - **CSS3** — Modern styling with Flexbox, Grid, and animations  
 - **JavaScript** — Interactive features and smooth scrolling  
 - **GitHub Pages** — Free hosting and deployment  
-- **MkDocs + Material for MkDocs** (optional documentation site)  
 
 ---
 
