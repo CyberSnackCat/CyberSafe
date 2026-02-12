@@ -2,7 +2,7 @@
 
 A modern, accessible website designed to help older adults and non‑technical community members stay safe online. CyberSafe combines clear explanations, practical checklists, and downloadable guides to make cybersecurity simple, visual, and actionable.
 
-(I wrote this readme for random people so when they find this repo and want to use it so it sounds more professional. I built this project because I love cybersecurity and I have seen my grandma have a lot of problems with her computer and viruses. I used MkDocs to build the first version because its Python‑based and I was learning Python at the time. It was good for to get the site online fast because I wanted to start sharing the information with older people, but the layout was just mid. My friend rebuilt it in HTML/CSS so it looked better.)
+(I wrote this readme for random people so when they find this repo and want to use it so it sounds more professional. I built this project because I love cybersecurity and I have seen my grandma have a lot of problems with her computer and viruses. I used MkDocs to build the first version because its Python‑based and I was learning Python at the time. I wanted to get the site online fast because I wanted to start sharing the information with older people, but the layout was just mid. My friend rebuilt it in HTML/CSS so it looked better.)
 
 ## 🌐 Live Sites
 - **Primary (GitHub Pages):** https://cybersnackcat.github.io/CyberSafe/
